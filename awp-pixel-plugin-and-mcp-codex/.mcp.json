@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "awp-pixel-plugin-and-mcp-codex": {
+      "cwd": ".",
+      "command": "python3",
+      "args": [
+        "./scripts/mcp_server.py"
+      ]
+    }
+  }
+}

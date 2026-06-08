@@ -1,0 +1,33 @@
+{
+  "name": "awp-pixel-plugin-and-mcp-codex",
+  "version": "0.1.0+codex.20260608122618",
+  "description": "AWP pixel-art sprite and MCP workflows for Codex, inspired by willibrandon/pixel-plugin.",
+  "author": {
+    "name": "bkg + Codex"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "repository": "https://github.com/forgefabrik/ff-plugins",
+  "keywords": [
+    "awp",
+    "pixel-art",
+    "sprites",
+    "mcp",
+    "codex"
+  ],
+  "interface": {
+    "displayName": "AWP Pixel MCP Codex",
+    "shortDescription": "Generate, normalize, and track AWP pixel-art sprite assets.",
+    "longDescription": "AWP Pixel Plugin and MCP Codex adds Codex workflows for AWP-style 2.5D pixel sprites: one prompt per sprite, black-background 64x64 normalization, manifest updates, project asset integration, and local MCP tools.",
+    "developerName": "bkg + Codex",
+    "category": "Design",
+    "capabilities": [
+      "Pixel-art sprite generation",
+      "64x64 sprite normalization",
+      "Sprite manifest maintenance",
+      "AWP asset pipeline support",
+      "Local MCP sprite tools"
+    ],
+    "defaultPrompt": "Help me generate AWP pixel sprites and wire them into Codex."
+  }
+}

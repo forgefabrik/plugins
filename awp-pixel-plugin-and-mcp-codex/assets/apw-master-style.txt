@@ -1,0 +1,3 @@
+2.5D isometric pixel art sprite, classic 16-bit video game asset style, isolated on a solid absolute black background, dimetric projection (2:1 pixel ratio), clean sharp pixel outlines, no anti-aliasing, no floor shadows, orthographic perspective, flat colors, retro arcade aesthetic.
+
+Generate a single standalone sprite only, centered, no sprite sheet, no labels, no extra characters.

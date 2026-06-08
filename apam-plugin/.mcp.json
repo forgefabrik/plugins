@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "awp-pixel-plugin-and-mcp-codex": {
+    "apam-plugin": {
       "cwd": ".",
       "command": "python3",
       "args": [

@@ -1,0 +1,36 @@
+{
+  "name": "apam-plugin",
+  "version": "0.1.0+codex.20260608124736",
+  "description": "APAM means Aseprite + Pixel + MCP: a general Codex plugin for professional asset workflows.",
+  "author": {
+    "name": "bkg + Codex"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "repository": "https://github.com/forgefabrik/plugins/tree/main/apam-plugin",
+  "keywords": [
+    "apam",
+    "pixel-art",
+    "aseprite",
+    "sprites",
+    "assets",
+    "mcp",
+    "codex"
+  ],
+  "interface": {
+    "displayName": "APAM Plugin",
+    "shortDescription": "Create professional pixel assets with Aseprite, MCP, and Codex.",
+    "longDescription": "APAM means Aseprite + Pixel + MCP. APAM Plugin adds general Codex workflows for professional pixel-art and game/UI assets: one-prompt-per-asset generation, Aseprite batch export, sprite sheets, metadata, palette/indexed conversion, normalization, manifest updates, and local MCP tools.",
+    "developerName": "bkg + Codex",
+    "category": "Design",
+    "capabilities": [
+      "Pixel-art asset generation",
+      "Aseprite CLI automation",
+      "Sprite sheet export",
+      "Palette and indexed conversion",
+      "Asset manifest maintenance",
+      "Local MCP asset tools"
+    ],
+    "defaultPrompt": "Help me create professional pixel assets with Aseprite."
+  }
+}
